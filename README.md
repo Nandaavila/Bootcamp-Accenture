@@ -58,6 +58,10 @@ O modelo foi capaz de identificar padrões fora do comportamento esperado, permi
 
 ---
 
+## Observação
+
+Este projeto foi desenvolvido como atividade prática do Bootcamp Accenture – Python para Análise e Automação de Dados da DIO, com o objetivo de aplicar os conceitos apresentados durante as aulas.
+
 ## 📂 Estrutura do Repositório
 
 ```text
